@@ -25,6 +25,6 @@
 
 
 
-       accuracy                          0.440      4219
-      macro avg      0.336     0.334     0.319      4219
-   weighted avg      0.386     0.440     0.397      4219
+        accuracy                          0.440      4219
+       macro avg      0.336     0.334     0.319      4219
+    weighted avg      0.386     0.440     0.397      4219
